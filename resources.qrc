@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>audio/dhurandhar_title.mp3</file>
+    </qresource>
+</RCC>
